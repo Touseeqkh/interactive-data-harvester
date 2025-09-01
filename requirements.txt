@@ -3,4 +3,5 @@ networkx
 matplotlib
 wikipedia-api
 streamlit
+pyvis
 
