@@ -4,4 +4,7 @@ matplotlib
 wikipedia-api
 streamlit
 pyvis
+requests
+SPARQLWrapper
+
 
